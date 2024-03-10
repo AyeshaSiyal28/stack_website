@@ -1,0 +1,312 @@
+ *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+#nav-bar{
+    background-color: rgb(62, 11, 62);
+    padding-bottom: 40px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+     padding-top: 15px;
+
+
+}
+.login{
+    display: flex;
+    justify-content: space-evenly;
+}
+.word h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo img{
+    height: 25px;
+    width: 25px;
+    
+}
+.search{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 8px;
+}
+
+.menu ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.buttn button{
+    padding: 10px 20px 10px 15px;
+    background-color: rgb(66, 15, 66);
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    
+}
+.butt button{
+    padding:10px 20px 13px 15px ;
+    border-radius: 5px;
+}
+main{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 70px;
+    padding-left: 60px;
+
+
+}
+.ved video{
+    width: 600px;
+    background-color: purple;
+    
+}
+.head{
+    margin-top: 30px;
+}
+.head h1{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head span{
+    color: rgb(209, 209, 53);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head p{
+    color: white;
+    padding-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.class{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.but button{
+    padding: 15px 35px 10px 35px;
+}
+.bttn img{
+    width: 40px;
+    height: 40px;
+    
+}
+.bttn button{
+    color: white;
+    background-color: skyblue;
+    margin-right: 10px;
+
+}
+h3{
+    color: white;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.line h4{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    padding-top: 30px;
+}
+.symbls{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-bottom: 70px;
+    margin-top: 30px;
+    
+}
+#main-part{
+    background-color: rgb(249, 232, 236);
+
+}
+.symbls{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.scme video{
+    width: 500px;
+}
+.team{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 50px;
+}
+.slack{
+    padding-top: 50px;
+
+}
+.slack h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+.slack p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+}
+.live video{
+    width: 500px;
+}
+.work{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 50px;
+}
+.want h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+.want p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+}
+.want{
+    padding-top: 50px;
+}
+.corp video{
+    width: 500px;
+}
+.workly{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 30px;
+}
+.tools h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+.tools p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+}
+.tools{
+    padding-top: 50px;
+}
+.large h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 38px;
+}
+.large p{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+#middle-part{
+    padding-bottom: 20px;
+}
+.meet{
+    display: flex;
+    justify-content: space-around;
+}
+.bet button{
+    margin-left:420px;
+    margin-top: 30px;
+    padding: 15px 15px ;
+    background-color: rgb(72, 16, 72);
+    color: white;
+    border-radius:3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sales button{
+    margin-right: 450px;
+    margin-top: 30px;
+    padding: 15px  15px;
+    background-color: white;
+    color: rgb(74, 17, 74);
+    border-color: rgb(71, 14, 71);
+    border-radius: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.ability{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    margin-top: 70px;
+}
+.users h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(63, 19, 63);
+}
+.users p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.clip video{
+    width: 500px;
+    border-top-right-radius: 300px;
+    border-bottom-right-radius: 300px;
+}
+.zoe{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+.tool{
+    padding: 30px;
+}
+.tool p{
+   font-size: 25px;
+   font-style: italic;
+}
+.tool h5{
+    padding-top: 15px;
+}
+.average p{
+   font-size: 11px;
+   display: flex;
+   justify-content: center;
+   font-family: Arial, Helvetica, sans-serif;
+   padding-top: 40px;
+}
+#main-cards{
+    background-color: rgb(249, 231, 234);
+    padding-bottom: 50px;
+}
+.dive h1{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    padding-top: 30px;
+}
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}
+.card img{
+    height: 150px;
+
+}
+.card{
+    background-color: white;
+    padding: 15px 15px 100px 15px;
+}
+.card:hover{
+    background-color: white;
+    transform: scale(1.1);
+    box-shadow: 0px 0px 20px 2px rgb(241, 200, 207);
+}
+.card h1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    font-size: 17px;
+}
